@@ -6,6 +6,7 @@ Este projeto é um site feito especialmente para minha namorada. Cada detalhe fo
 
 ## Tecnologias
 - HTML5  
-- CSS3  
+- CSS3
+- JS
 - Um pouquinho de criatividade e amor 💌  
 
